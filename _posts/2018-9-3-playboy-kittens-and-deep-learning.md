@@ -37,11 +37,9 @@ Very gracious; totally painless. He was as good as his word: within a day, he re
 
 Thus accomplishing the true goal -- to increase the number of kitten pictures in machine learning. Look at its little ears! 
 
-As I said at the outset, this obviously isn’t a tremendously momentous interaction. I share it for two reasons. First, women who speak up about gender issues are sometimes told that we should calm down or that we’re being too sensitive, and I wanted to illustrate that we’ve often already put a lot of time into calming down and choosing our words carefully. There’s a good chance that we were actually a lot madder than we’re acting, and it’s probably unhelpful to ask us to calm down further [1]. 
+As I said at the outset, this obviously isn’t a tremendously momentous interaction. I share it for two reasons. First, women who speak up about gender issues are sometimes told that we should calm down or that we’re being too sensitive, and I wanted to illustrate that we’ve often already put a lot of time into calming down and choosing our words carefully. There’s a good chance that we were actually a lot madder than we’re acting, and it’s probably unhelpful to ask us to calm down further [^1]. 
 
 My second reason for sharing this is that conversations on social justice issues feel so fraught and so frequently blow up, but this interaction gave me hope. When I talk to computer scientists about gender issues, I don’t think they are usually as concerned as I am. But I also think that they are at least somewhat concerned about gender issues and, if you reach out to them calmly and it doesn’t cost them anything, will be receptive to helping you out. Here’s to more kittens and fewer topless women in deep learning. 
 
-Notes: 
-
-[1] Of course, this isn’t always true. Everyone sometimes lashes out without thinking, and some women do this too. But given that most are thoughtful and restrained, I think it’s risky and unfair to assume someone who’s acting angry hasn’t thought about their words. 
+[^1] Of course, this isn’t always true. Everyone sometimes lashes out without thinking, and some women do this too. But given that most are thoughtful and restrained, I think it’s risky and unfair to assume someone who’s acting angry hasn’t thought about their words. 
 
