@@ -41,5 +41,7 @@ As I said at the outset, this obviously isn’t a tremendously momentous interac
 
 My second reason for sharing this is that conversations on social justice issues feel so fraught and so frequently blow up, but this interaction gave me hope. When I talk to computer scientists about gender issues, I don’t think they are usually as concerned as I am. But I also think that they are at least somewhat concerned about gender issues and, if you reach out to them calmly and it doesn’t cost them anything, will be receptive to helping you out. Here’s to more kittens and fewer topless women in deep learning. 
 
+**Notes:**
+
 [^1]: Of course, this isn’t always true. Everyone sometimes lashes out without thinking, and some women do this too. But given that most are thoughtful and restrained, I think it’s risky and unfair to assume someone who’s acting angry hasn’t thought about their words. 
 
