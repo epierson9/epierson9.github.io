@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Kittens, Playboy, and Deep Learning
+title: Playboy, Kittens, and Deep Learning
 ---
 
 It was nearing midnight and it had been a long day, but I was excited. In the morning I had been reading about conv nets, a powerful deep learning technique that lets computers understand images; in the afternoon I had been chatting with one deep learning researcher about how to use them, in the evening I grabbed dinner with a second deep learning researcher, and now approaching bedtime I was tapping away on my laptop marveling at how, in a few lines of code, I could download a vast mathematical structure that could discriminate between a thousand image classes with near-human accuracy. I was messaging an economist friend about how my field was cooler than his because I was so damn excited.
 
 But as I went through the code in a famous deep learning toolbox, I noticed an image file with an odd name -- lena.jpg. And with a jolt I realized who she was: 
+
+![_config.yml]({{ site.baseurl }}/images/lena.jpg)
 
 This is one of the most widely used images in computer science. If you’ve ever taken a computer science class that worked with images, there’s a good chance you’ve used it. It also has a lesser-known, controversial history. The image comes from a 1973 Playboy centerfold. It was originally used in a computer science paper because a bunch of USC scientists were writing a paper in a hurry and just needed an image to add as an example, and someone happened to walk in with a Playboy. The image has been widely used ever since then, and there have been complaints for decades that it’s sexist to use it as a standard test image: see Wikipedia’s summary, and also this Washington Post op-ed from a female computer science student at my high school.
 
@@ -27,7 +29,11 @@ Then I stopped and thought before posting it. The cardinal rule I adhere to when
 
 So I went to sleep without doing anything. Over the next few days I reached out to a few people I respected to see what they thought. My anger faded, but I remained convinced the image should be taken down. One option was to open a GitHub issue -- essentially, write a public note to the author of the code explaining the history of the image and asking that he use a different one. The upside of this would be to raise awareness of the image’s history and the prevalence of subtle gender bias in computer science, and make it harder for the author to ignore me. The downsides were that it’s a bit pointed to publicly point out sexism in someone’s work; there was also the risk that the whole interaction would end up on Hacker News or Reddit and waste a lot of my time (although this could also be an upside, if it offered insight into how discussions on these issues evolved). Instead, I decided to privately email the author. If he ignored me, I could escalate by making a public comment. We had the following exchange (I blacked out his identifying details). 
 
+![_config.yml]({{ site.baseurl }}/images/email_exchange.png)
+
 Very gracious; totally painless. He was as good as his word: within a day, he replaced the original image with
+
+![_config.yml]({{ site.baseurl }}/images/cat_224.jpg)
 
 Thus accomplishing the true goal -- to increase the number of kitten pictures in machine learning. Look at its little ears! 
 
