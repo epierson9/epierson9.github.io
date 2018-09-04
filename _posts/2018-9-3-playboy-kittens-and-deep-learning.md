@@ -7,7 +7,7 @@ It was nearing midnight and it had been a long day, but I was excited. In the mo
 
 But as I went through the code in a famous deep learning toolbox, I noticed an image file with an odd name -- lena.jpg. And with a jolt I realized who she was: 
 
-![_config.yml]({{ site.baseurl }}/images/lena.jpg)
+![_config.yml](https://cs.stanford.edu/~emmap1/profPicture.png)
 
 This is one of the most widely used images in computer science. If you’ve ever taken a computer science class that worked with images, there’s a good chance you’ve used it. It also has a lesser-known, [controversial history](https://en.wikipedia.org/wiki/Lenna#History). The image comes from a 1973 Playboy centerfold. It was originally used in a computer science paper because a bunch of USC scientists were writing a paper in a hurry and just needed an image to add as an example, and someone happened to walk in with a Playboy. The image has been widely used ever since then, and there have been complaints for decades that it’s sexist to use it as a standard test image: see Wikipedia’s [summary](https://en.wikipedia.org/wiki/Lenna#Criticism), and also this [Washington Post op-ed](https://www.washingtonpost.com/opinions/a-playboy-centerfold-does-not-belong-in-tj-classrooms/2015/04/24/76e87fa4-e47a-11e4-81ea-0649268f729e_story.html?utm_term=.baa28b7ee763) from a female computer science student at my high school.
 
