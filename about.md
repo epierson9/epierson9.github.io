@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I love using statistics to make sense of the world. I'm at Stanford doing a PhD in computer science after spending a year studying statistics at Oxford on a Rhodes scholarship and a year as a researcher at Coursera and 23andMe. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emmap1@cs.stanford.edu](mailto:emmap1@cs.stanford.edu)
