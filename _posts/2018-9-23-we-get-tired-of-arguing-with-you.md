@@ -33,8 +33,12 @@ The audience laughed because they thought I was acting; they didn’t realize I 
 
 **Notes:**
 
-[^1] Swartout, Kevin M., et al. "Trajectory analysis of the campus serial rapist assumption." JAMA Pediatrics. 169.12 (2015): 1148-1154. 
-[^2] Lisak, David, and Paul M. Miller. "Repeat rape and multiple offending among undetected rapists." Violence and Victims. 17.1 (2002): 73-84. 
-[^3] Please don't tell me this is a totally unfair reaction to a bunch of kids playing soccer. That’s the point. 
-[^4] Some of these numbers are definitely way off, though the math is right. Don’t trust any numbers in debate rounds. 
-[^5] To be clear, I bear no ill will towards the other team -- nice guys, and better debaters than I was, who went on to win the round. 
+[^1]: Swartout, Kevin M., et al. "Trajectory analysis of the campus serial rapist assumption." JAMA Pediatrics. 169.12 (2015): 1148-1154. 
+
+[^2]: Lisak, David, and Paul M. Miller. "Repeat rape and multiple offending among undetected rapists." Violence and Victims. 17.1 (2002): 73-84. 
+
+[^3]: Please don't tell me this is a totally unfair reaction to a bunch of kids playing soccer. That’s the point. 
+
+[^4]: Some of these numbers are definitely way off, though the math is right. Don’t trust any numbers in debate rounds. 
+
+[^5]: To be clear, I bear no ill will towards the other team -- nice guys, and better debaters than I was, who went on to win the round. 
