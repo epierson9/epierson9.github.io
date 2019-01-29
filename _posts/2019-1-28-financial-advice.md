@@ -3,9 +3,14 @@ layout: post
 title: I figured out how to invest my money
 ---
 
-I spent the last week or so doing this. I learned a lot -- my views changed significantly several times, and I realized I disagreed with a lot of what my friends and family were doing. I’m writing about it because a) I hope it will be useful to you and b) if I’m doing something wildly wrong, hopefully you will tell me. I’m not going to describe my finances in great detail both to preserve my own privacy and because my friends’ financial situations vary enormously, so I’m not sure how useful it would be anyway. But, to give necessary context, I have some money saved -- not a huge amount, since I’ve spent nearly all of my 20s in grad school, but enough to invest. 
+I spent the last week or so doing this. I learned a lot -- my views changed significantly several times, and I realized I disagreed with a lot of what my friends and family were doing. I’m writing about it because 
 
-I decided that getting my financial plans right was worth spending some time and money on because making bad decisions is very expensive; even a 1% difference in returns matters when it affects all your money, even more so when you consider compound interest. My pride was also pricked by the fact that, historically, women haven’t had much knowledge of or control over money. I’ve at times been helpless about money too (for example, when I worked at a small company, I never had any idea how much my stock options were worth -- still don’t) and I had a sudden urge not to be. Besides, I’ve always liked learning things which are supposed to be just for men.
+1. I hope it will be useful to you. 
+2. If I’m doing something wildly wrong, hopefully you will tell me. 
+
+I’m not going to describe my finances in great detail both to preserve my own privacy and because my friends’ financial situations vary enormously, so I’m not sure how useful it would be anyway. But, to give necessary context, I have some money saved -- not a huge amount, since I’ve spent nearly all of my 20s in grad school, but enough to invest. 
+
+I decided that getting my financial plans right was worth spending some time and money on because making bad decisions is very expensive. Even a 1% difference in returns matters when it affects all your money, even more so when you consider compound interest. My pride was also pricked by the fact that, historically, women haven’t had much knowledge of or control over money. I’ve at times been helpless about money too (for example, when I worked at a small company, I never had any idea how much my stock options were worth -- still don’t) and I had a sudden urge not to be. Besides, I’ve always liked learning things which are supposed to be just for men.
 
 So, this week, I bought and finished two classic books on personal finance: *Get a Financial Life: Personal Finance in Your Twenties and Thirties*, and *A Random Walk Down Wall Street*. Both these books were originally published more than 20 years ago (*A Random Walk Down Wall Street* is 45 years old) and were so popular that they’ve gone through many subsequent editions. The editions I read were both published after 2017 and are applicable to present day. **I highly recommend both these books.** They are much cheaper than a financial advisor, they are highly readable, and reading them may save you a lot of money. 
 
@@ -44,5 +49,5 @@ After learning all this, I’ve decided I’m going to drop out of the PhD progr
 
 **Notes**: 
 
-[^1] This might not be true if you are much richer than me? But for most of us it is good advice.
-[^2] Again, this may not be true for all stock situations — I still don’t know much about startup stock.
+[^1]: This might not be true if you are much richer than me? But for most of us it is good advice.
+[^2]: Again, this may not be true for all stock situations — I still don’t know much about startup stock.
