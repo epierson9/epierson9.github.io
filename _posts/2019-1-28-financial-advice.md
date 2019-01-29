@@ -3,20 +3,21 @@ layout: post
 title: I figured out how to invest my money
 ---
 
-I spent the last week or so doing this. I learned a lot -- my views changed significantly several times, and I realized I disagreed with a lot of what my friends and family were doing. I’m writing about it because 
+I spent the last week or so doing this. I learned a lot -- my views changed significantly several times, and I realized I disagreed with a lot of what my friends and family were doing. I’m writing about my experience because 
 
 1. I hope it will be useful to you. 
 2. If I’m doing something wildly wrong, hopefully you will tell me. 
 
 I’m not going to describe my finances in great detail both to preserve my own privacy and because my friends’ financial situations vary enormously, so I’m not sure how useful it would be anyway. But, to give necessary context, I have some money saved -- not a huge amount, since I’ve spent nearly all of my 20s in grad school, but enough to invest. 
 
-I decided that getting my financial plans right was worth spending some time and money on because making bad decisions is very expensive. Even a 1% difference in returns matters when it affects all your money, even more so when you consider compound interest. My pride was also pricked by the fact that, historically, women haven’t had much knowledge of or control over money. I’ve at times been helpless about money too (for example, when I worked at a small company, I never had any idea how much my stock options were worth -- still don’t) and I had a sudden urge not to be. Besides, I’ve always liked learning things which are supposed to be just for men.
+I decided that getting my financial plans right was worth spending some time and money on because making bad decisions is very expensive. Even a 1% difference in returns matters when it affects *all your money*, even more so when you consider compound interest. My pride was also pricked by the fact that, historically, women haven’t had much knowledge of or control over money. I’ve at times been helpless about money too (for example, when I worked at a small company, I never had any idea how much my stock options were worth -- still don’t) and I had a sudden urge not to be. Besides, I’ve always liked learning things which are supposed to be just for men.
 
 So, this week, I bought and finished two classic books on personal finance: *Get a Financial Life: Personal Finance in Your Twenties and Thirties*, and *A Random Walk Down Wall Street*. Both these books were originally published more than 20 years ago (*A Random Walk Down Wall Street* is 45 years old) and were so popular that they’ve gone through many subsequent editions. The editions I read were both published after 2017 and are applicable to present day. **I highly recommend both these books.** They are much cheaper than a financial advisor, they are highly readable, and reading them may save you a lot of money. 
 
 *Get a Financial Life: Personal Finance in Your Twenties and Thirties* is more pragmatic and targeted at young readers in a wide range of financial situations. It has many useful tips regardless of your levels of savings and debt. *A Random Walk Down Wall Street* is most useful if you have savings and want to know how to invest them. It does not discuss things like student loans, credit card debt, or how to boost your credit score. It is both an academic book and a practical advice manual. Most of the book is an entertaining historical and theoretical overview of how markets work and all the (often tragic) ways people have tried to get rich by investing. The last part of the book is most useful if you just want practical advice on what to do with your money. Somewhat depressingly, the book is also filled with unnecessary sexual content (the last two paragraphs in my edition are an extended rumination on how “investing is a bit like lovemaking” -- perhaps not the most essential idea to close on?) but in general it was excellent. 
 
 Reading these books was useful because I learned that my friends, family, and I were doing many things wrong. Here are some specific misconceptions these books corrected. I list them mainly to make the point that reading these books taught me things; I’m sure if you read them, you would learn other things more relevant to your life. When reading everything that follows, please keep in mind that I started learning about this roughly a week ago; take everything with a grain of salt. Please let me know if there are errors and I’ll correct them. 
+    
     
 | Belief | Truth | 
 | ------ | ----- |
