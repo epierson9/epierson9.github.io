@@ -44,8 +44,9 @@ I think the idea of inferring the threshold at which people are tested, rather t
     1. On each day, the probability $$p$$ that a person of race $$r$$ in county $$c$$ has COVID is drawn from a race and county-specific *risk distribution* -- a probability distribution on $$[0, 1]$$. 
     2. Each person gets tested if their probability of having COVID exceeds a race and county-specific testing threshold, $$t_{rc} \in [0, 1]$$. So the proportion of people who will get tested, $$f_{rc}$$,  is the proportion of the risk distribution that lies above the threshold. The proportion of tests which will be positive, $$g_{rc}$$, is $$E[p \mid p>t_{rc}]$$: that is, the expected value of the risk distribution conditional on being above the testing threshold. 
     3. In terms of how we generate the observed data:
-        $$tests_{rc} \sim Poisson($$n_{rc} \cdot f_{rc})$$, where $$n_{rc}$$ is the population for that race and county.
-        $$cases_{rc} \sim Binomial($$tests_{rc}$$, $$g_{rc}$$
+
+        $$tests_{rc} \sim Poisson(n_{rc} \cdot f_{rc})$$, where $$n_{rc}$$ is the population for that race and county.
+        $$cases_{rc} \sim Binomial(tests_{rc}$$, $$g_{rc}$$
 
     Then you have to make a bunch of decisions about how to parameterize the risk distributions - probably the most succinct comprehensive description is my [Stan implementation](https://github.com/epierson9/disease-testing-thresholds/blob/master/poisson_mixture_model_no_deltas.stan).
 
