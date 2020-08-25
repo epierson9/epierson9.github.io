@@ -41,7 +41,7 @@ I think the idea of inferring the threshold at which people are tested, rather t
 [^1]: 
     The original policing threshold test uses three pieces of data for each race, location pair: stops, searches, and searches that find contraband. To adapt this to COVID testing, the natural mapping is "searches" -> "COVID tests" and "searches that find contraband" -> "positive COVID tests", but there is no obvious counterpart to police stops in COVID testing. Instead, I used the population of each county, so the generative model for COVID is: 
 
-    1. On each day, the probability *p* that a person of race *r* in county *c* has COVID is drawn from a race and county-specific risk distribution -- a probability distribution on [0, 1]. 
+    1. On each day, the probability $$p$$ that a person of race $$r$$ in county $$c$$ has COVID is drawn from a race and county-specific risk distribution -- a probability distribution on [0, 1]. 
     2. Each person gets tested if their probability of having COVID exceeds a race and county-specific testing threshold, *t_rc*, which lies between 0 and 1. So the proportion of people who will get tested, frc,  is the portion of the risk distribution that lies above the threshold: that is, one minus its CDF. The proportion of tests which will be positive, grc, is E[*p|p>t_rc*]: that is, the expected value of the risk distribution conditional on being above the testing threshold. 
     3. In terms of how we generate the observed data, we draw the number of tests, testsrc, for a race and county from Poisson(nrc x frc), where nrc is the population for that race and county. We draw the number of positive tests from Binomial(testsrc, grc). 
 
