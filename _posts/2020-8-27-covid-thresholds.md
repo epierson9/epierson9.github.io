@@ -56,6 +56,6 @@ I think the idea of inferring the threshold at which people are tested, rather t
 
     Another drawback of Indiana data is that it reports data aggregated by race, and data aggregated by ethnicity, but not data aggregated by both at once. So to fit the model on white, Black, and Hispanic populations simultaneously, I had to make assumptions about how the two sets of aggregate counts should be combined. As a sensitivity analysis, I tried doing this three different ways I thought were reasonable (I came up with two, and my boyfriend came up with one), and all yielded the same conclusion. 
 
-[^4]: It’s worth noting that, when the two analyses differ, understanding why they’re different can be interesting - that’s beyond the scope of this post, but for more discussion, see the original threshold test paper, Section 3.4. 
+[^4]: It’s worth noting that, when the two analyses differ, understanding why they’re different can be interesting - that’s beyond the scope of this post, but for more discussion, see the original threshold test [paper](https://5harad.com/papers/threshold-test.pdf), Section 3.4. 
 
 [^5]: This may require data on daily cases, as opposed to cumulative cases. 
