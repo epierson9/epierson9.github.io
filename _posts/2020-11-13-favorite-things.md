@@ -5,22 +5,17 @@ title: My Favorite Things
 
 <p style="text-align: center;">
 *Raindrops on roses and whiskers on kittens*<br>
-*Matrix transposes and not overfittin’*
-
-*Well-maintained packages, clear docustrings*
-
+*Matrix transposes and not overfittin’*<br>
+*Well-maintained packages, clear docustrings*<br>
 *Networks with very low latency pings...*
 </p>
 
 
 <p style="text-align: center;">
-*Speed that impresses from large L2 caches*
-
-*Deepfakes detected with watermarked hashes*
-
-*Lightweight code linters that fix review dings*
-
-*Matroids and monoids and fields and rings...*
+*Speed that impresses from large L2 caches*<br>
+*Deepfakes detected with watermarked hashes*<br>
+*Lightweight code linters that fix review dings*<br>
+*Matroids and monoids and fields and rings...*<br>
 </p>
 
 Here is a list of my favorite academic things: the experiences that keep me doing what I do. These aren’t professional successes - I don’t get that happy or excited when papers are accepted, for example. They aren’t even intellectual experiences, really. Rather, they’re visceral, emotional experiences. My favorite food critic has a passage about the visceral joys of cooking, like slicing a ripe melon in half. Cooks work with food, and potters with clay, and I work with data, and here are ten things I like about doing that: 
