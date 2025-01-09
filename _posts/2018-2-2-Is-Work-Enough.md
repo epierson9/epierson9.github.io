@@ -3,8 +3,6 @@ layout: post
 title: Is work enough? 
 ---
 
-I wrote this piece three years ago and never published it. But I returned to it recently and it still resonates with me (though a lot has changed since then), so I’m publishing it now. 
-
 Recently I wrote my first piece for the Atlantic, and on the day it came out I woke up early because I was so excited. But people quickly started writing mean things about the piece, and because my skin isn’t as thick as it should be I called my mom in the hope that she would make me feel better.
 
 "I’m a little stressed too, actually," she said.
